@@ -1,0 +1,10 @@
+Administrator:
+    pravi raspored rada lekara
+
+Lekar:
+    pošalje poruku svim svojim pacijentima
+    od administratora traži promenu rasporeda
+
+Pacijent:
+    (napraviti algoritam kojim se vodi računa o preopterećenosti lekara)
+
